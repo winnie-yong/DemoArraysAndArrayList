@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DemoArraysArrayList">
-        <activity android:name=".ArrayListActivity"></activity>
+        <activity android:name=".ArrayListActivity" />
         <activity android:name=".ArrayActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
